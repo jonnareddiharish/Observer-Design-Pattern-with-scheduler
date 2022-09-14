@@ -1,0 +1,4 @@
+myapp:
+  scheduling:
+    enable: "true"
+    timeInMillis: 5000
